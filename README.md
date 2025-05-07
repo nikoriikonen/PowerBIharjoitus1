@@ -1,11 +1,11 @@
 # Harjoitustyö – Power BI-visualisointi  
 **Niko Riikonen**
 
-## 📊 Projektin kuvaus
+## Projektin kuvaus
 
 Tämä Power BI -projekti on toteutettu osana XAMK:n data-analytiikan opintoja. Projektin tavoitteena oli harjoitella datan visualisointia, raporttien rakentamista ja analytiikan hyödyntämistä liiketoimintatiedon tukena.
 
-## 🖼 Esikatselu
+## Esikatselu
 
 ![image](https://github.com/user-attachments/assets/6d21f94c-7ff0-4281-a700-38137992a6a4)
 
